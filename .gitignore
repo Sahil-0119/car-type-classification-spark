@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Scala / SBT
+target/
+project/target/
+project/project/
+
+# Temporary files
+*.log
+*.tmp
+
+# Secrets
+.env
+.env.*
+
+# Prediction history
+dashboard_data/prediction_history.csv
+
+# Spark temporary output
+spark-warehouse/
+metastore_db/
+.metals/
+.bsp/
+.scala-build/
+.vscode/

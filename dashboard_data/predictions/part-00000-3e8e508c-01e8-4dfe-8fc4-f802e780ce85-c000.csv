@@ -1,0 +1,2291 @@
+actualStyle,predictedStyle,label,prediction
+Coupe,Coupe,2.0,2.0
+Coupe,Sedan,2.0,0.0
+Coupe,Coupe,2.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,2dr Hatchback,0.0,8.0
+Sedan,2dr Hatchback,0.0,8.0
+Sedan,2dr Hatchback,0.0,8.0
+Sedan,2dr Hatchback,0.0,8.0
+2dr Hatchback,Sedan,8.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,Coupe,2.0,2.0
+Sedan,Sedan,0.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,Sedan,8.0,0.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,Coupe,2.0,2.0
+Convertible,Coupe,3.0,2.0
+Convertible,Coupe,3.0,2.0
+Convertible,Coupe,3.0,2.0
+Convertible,Coupe,3.0,2.0
+Coupe,Coupe,2.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Convertible,Coupe,3.0,2.0
+Convertible,Coupe,3.0,2.0
+Convertible,Coupe,3.0,2.0
+Convertible,Coupe,3.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Convertible,Coupe,3.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Convertible,Convertible,3.0,3.0
+Sedan,Sedan,0.0,0.0
+Convertible,Convertible,3.0,3.0
+Sedan,Sedan,0.0,0.0
+Convertible,Convertible,3.0,3.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Coupe,0.0,2.0
+Sedan,Sedan,0.0,0.0
+Coupe,Sedan,2.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Convertible,2dr Hatchback,3.0,8.0
+2dr Hatchback,Sedan,8.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Coupe,Coupe,2.0,2.0
+Coupe,Convertible,2.0,3.0
+Coupe,Convertible,2.0,3.0
+Convertible,Coupe,3.0,2.0
+Convertible,Coupe,3.0,2.0
+Sedan,Coupe,0.0,2.0
+Sedan,Coupe,0.0,2.0
+Coupe,Convertible,2.0,3.0
+Coupe,Convertible,2.0,3.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Coupe,0.0,2.0
+Coupe,Sedan,2.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Coupe,Convertible,2.0,3.0
+Coupe,Convertible,2.0,3.0
+Sedan,Sedan,0.0,0.0
+Wagon,4dr SUV,7.0,1.0
+Wagon,4dr SUV,7.0,1.0
+Wagon,Wagon,7.0,7.0
+Convertible,4dr SUV,3.0,1.0
+Coupe,Sedan,2.0,0.0
+Convertible,Coupe,3.0,2.0
+Convertible,Coupe,3.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Wagon,Sedan,7.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Coupe,0.0,2.0
+4dr Hatchback,Sedan,4.0,0.0
+4dr Hatchback,Sedan,4.0,0.0
+Coupe,Sedan,2.0,0.0
+Coupe,Convertible,2.0,3.0
+Convertible,Sedan,3.0,0.0
+Sedan,Convertible,0.0,3.0
+Sedan,Convertible,0.0,3.0
+Sedan,Coupe,0.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Convertible,Sedan,3.0,0.0
+Coupe,Sedan,2.0,0.0
+Coupe,Coupe,2.0,2.0
+Coupe,Convertible,2.0,3.0
+Convertible,Convertible,3.0,3.0
+Coupe,Convertible,2.0,3.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+Coupe,Convertible,2.0,3.0
+Coupe,Sedan,2.0,0.0
+Coupe,Convertible,2.0,3.0
+Coupe,Convertible,2.0,3.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Coupe,3.0,2.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Sedan,Sedan,0.0,0.0
+Convertible,Coupe,3.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Sedan,Coupe,0.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Convertible,Convertible,3.0,3.0
+Coupe,Coupe,2.0,2.0
+Convertible,Coupe,3.0,2.0
+Convertible,Coupe,3.0,2.0
+Convertible,Coupe,3.0,2.0
+Convertible,Coupe,3.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Wagon,0.0,7.0
+Sedan,Wagon,0.0,7.0
+Sedan,Sedan,0.0,0.0
+Coupe,Coupe,2.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Coupe,0.0,2.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Sedan,Sedan,0.0,0.0
+Sedan,Coupe,0.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Coupe,0.0,2.0
+Coupe,Sedan,2.0,0.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,Coupe,2.0,2.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Wagon,0.0,7.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Convertible,Convertible,3.0,3.0
+Convertible,Coupe,3.0,2.0
+Convertible,Coupe,3.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Sedan,4dr Hatchback,0.0,4.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+4dr SUV,4dr SUV,1.0,1.0
+2dr SUV,2dr SUV,11.0,11.0
+2dr SUV,2dr SUV,11.0,11.0
+Extended Cab Pickup,Passenger Minivan,6.0,10.0
+Extended Cab Pickup,Passenger Minivan,6.0,10.0
+Extended Cab Pickup,Passenger Minivan,6.0,10.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Extended Cab Pickup,Passenger Minivan,6.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Passenger Minivan,6.0,10.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Regular Cab Pickup,Extended Cab Pickup,10.0,6.0
+Convertible,Coupe,3.0,2.0
+Coupe,Coupe,2.0,2.0
+Convertible,Coupe,3.0,2.0
+Coupe,Coupe,2.0,2.0
+Convertible,Coupe,3.0,2.0
+Coupe,Convertible,2.0,3.0
+Convertible,Coupe,3.0,2.0
+Coupe,Convertible,2.0,3.0
+Wagon,Sedan,7.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Coupe,Sedan,2.0,0.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Sedan,Coupe,0.0,2.0
+Cargo Van,Cargo Van,13.0,13.0
+Cargo Van,Cargo Van,13.0,13.0
+Cargo Van,Cargo Van,13.0,13.0
+Cargo Minivan,Cargo Minivan,14.0,14.0
+Cargo Minivan,Cargo Minivan,14.0,14.0
+Sedan,Coupe,0.0,2.0
+Sedan,2dr Hatchback,0.0,8.0
+Coupe,Coupe,2.0,2.0
+Sedan,Coupe,0.0,2.0
+Sedan,Coupe,0.0,2.0
+Regular Cab Pickup,Extended Cab Pickup,10.0,6.0
+Regular Cab Pickup,Extended Cab Pickup,10.0,6.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Coupe,Convertible,2.0,3.0
+Convertible,Convertible,3.0,3.0
+Coupe,Convertible,2.0,3.0
+Convertible,Coupe,3.0,2.0
+Convertible,Coupe,3.0,2.0
+Coupe,Convertible,2.0,3.0
+Coupe,Convertible,2.0,3.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Passenger Van,Passenger Van,12.0,12.0
+Passenger Van,Passenger Van,12.0,12.0
+Passenger Van,Passenger Van,12.0,12.0
+Cargo Van,Passenger Van,13.0,12.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr Hatchback,4dr SUV,4.0,1.0
+Sedan,2dr Hatchback,0.0,8.0
+Coupe,Sedan,2.0,0.0
+Sedan,Sedan,0.0,0.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+2dr SUV,2dr SUV,11.0,11.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+2dr SUV,2dr SUV,11.0,11.0
+4dr SUV,4dr SUV,1.0,1.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Crew Cab Pickup,Passenger Minivan,5.0,10.0
+Crew Cab Pickup,Passenger Minivan,5.0,10.0
+Crew Cab Pickup,Passenger Minivan,5.0,10.0
+Crew Cab Pickup,Passenger Minivan,5.0,10.0
+Crew Cab Pickup,Passenger Minivan,5.0,10.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Extended Cab Pickup,Passenger Minivan,6.0,10.0
+Extended Cab Pickup,Passenger Minivan,6.0,10.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Crew Cab Pickup,Passenger Minivan,5.0,10.0
+Extended Cab Pickup,Passenger Minivan,6.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Crew Cab Pickup,Passenger Minivan,5.0,10.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Extended Cab Pickup,Passenger Minivan,6.0,10.0
+Extended Cab Pickup,Passenger Minivan,6.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Crew Cab Pickup,Passenger Minivan,5.0,10.0
+Crew Cab Pickup,4dr SUV,5.0,1.0
+Crew Cab Pickup,4dr SUV,5.0,1.0
+4dr Hatchback,4dr SUV,4.0,1.0
+4dr Hatchback,Sedan,4.0,0.0
+Sedan,4dr Hatchback,0.0,4.0
+4dr Hatchback,Sedan,4.0,0.0
+Sedan,4dr Hatchback,0.0,4.0
+Sedan,4dr Hatchback,0.0,4.0
+4dr Hatchback,Sedan,4.0,0.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Sedan,4dr Hatchback,0.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,Convertible SUV,1.0,15.0
+4dr SUV,Passenger Minivan,1.0,10.0
+4dr SUV,Convertible SUV,1.0,15.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,Passenger Minivan,1.0,10.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,Coupe,1.0,2.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,4dr SUV,9.0,1.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr SUV,Extended Cab Pickup,1.0,6.0
+4dr SUV,Extended Cab Pickup,1.0,6.0
+4dr SUV,Extended Cab Pickup,1.0,6.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Convertible,Coupe,3.0,2.0
+2dr Hatchback,Convertible,8.0,3.0
+Convertible,Convertible,3.0,3.0
+2dr Hatchback,Convertible,8.0,3.0
+Sedan,Sedan,0.0,0.0
+Sedan,Convertible,0.0,3.0
+Wagon,Convertible,7.0,3.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Convertible,Convertible,3.0,3.0
+Sedan,Sedan,0.0,0.0
+Convertible,4dr Hatchback,3.0,4.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Sedan,9.0,0.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Wagon,Wagon,7.0,7.0
+Wagon,4dr Hatchback,7.0,4.0
+Wagon,2dr Hatchback,7.0,8.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,2dr Hatchback,7.0,8.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Sedan,Sedan,0.0,0.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+4dr SUV,Sedan,1.0,0.0
+4dr SUV,Sedan,1.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Sedan,Sedan,0.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Sedan,Sedan,0.0,0.0
+Sedan,2dr Hatchback,0.0,8.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,2dr Hatchback,0.0,8.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Regular Cab Pickup,Extended Cab Pickup,10.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Regular Cab Pickup,Extended Cab Pickup,10.0,6.0
+Regular Cab Pickup,Extended Cab Pickup,10.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Passenger Minivan,6.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Extended Cab Pickup,10.0,6.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Cargo Van,Passenger Van,13.0,12.0
+Cargo Van,Cargo Van,13.0,13.0
+Cargo Van,Cargo Van,13.0,13.0
+Cargo Van,Cargo Van,13.0,13.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Crew Cab Pickup,10.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,4dr SUV,5.0,1.0
+Crew Cab Pickup,4dr SUV,5.0,1.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Cargo Van,Cargo Van,13.0,13.0
+Passenger Van,Passenger Van,12.0,12.0
+2dr SUV,2dr SUV,11.0,11.0
+2dr SUV,2dr SUV,11.0,11.0
+2dr SUV,2dr SUV,11.0,11.0
+2dr SUV,2dr SUV,11.0,11.0
+2dr SUV,2dr SUV,11.0,11.0
+2dr SUV,2dr SUV,11.0,11.0
+Coupe,Coupe,2.0,2.0
+Convertible,2dr Hatchback,3.0,8.0
+Convertible,2dr Hatchback,3.0,8.0
+Coupe,Convertible,2.0,3.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Sedan,2.0,0.0
+Coupe,Sedan,2.0,0.0
+Coupe,Coupe,2.0,2.0
+Coupe,Sedan,2.0,0.0
+Sedan,4dr SUV,0.0,1.0
+Coupe,Coupe,2.0,2.0
+Convertible,Convertible,3.0,3.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+Convertible,2dr Hatchback,3.0,8.0
+Convertible,2dr Hatchback,3.0,8.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+4dr SUV,Sedan,1.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Coupe,Convertible,2.0,3.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Convertible,Coupe,3.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Convertible,Coupe,3.0,2.0
+Convertible,Coupe,3.0,2.0
+Passenger Minivan,Cargo Minivan,9.0,14.0
+Passenger Minivan,Cargo Minivan,9.0,14.0
+2dr Hatchback,4dr Hatchback,8.0,4.0
+2dr Hatchback,4dr Hatchback,8.0,4.0
+2dr SUV,2dr SUV,11.0,11.0
+2dr SUV,2dr SUV,11.0,11.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Cargo Van,Cargo Van,13.0,13.0
+Cargo Van,Cargo Van,13.0,13.0
+Cargo Van,Passenger Van,13.0,12.0
+Cargo Van,Passenger Van,13.0,12.0
+Cargo Van,Cargo Van,13.0,13.0
+Cargo Van,Passenger Van,13.0,12.0
+Cargo Van,Passenger Van,13.0,12.0
+Cargo Van,Cargo Van,13.0,13.0
+Cargo Van,Passenger Van,13.0,12.0
+Cargo Van,Cargo Van,13.0,13.0
+Cargo Van,Cargo Van,13.0,13.0
+Passenger Van,Passenger Van,12.0,12.0
+Passenger Van,Passenger Van,12.0,12.0
+Passenger Van,Passenger Van,12.0,12.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,Sedan,1.0,0.0
+4dr SUV,Sedan,1.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Coupe,Coupe,2.0,2.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+2dr SUV,2dr SUV,11.0,11.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Crew Cab Pickup,Passenger Minivan,5.0,10.0
+Crew Cab Pickup,Passenger Minivan,5.0,10.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Crew Cab Pickup,Passenger Minivan,5.0,10.0
+Extended Cab Pickup,Passenger Minivan,6.0,10.0
+Crew Cab Pickup,Passenger Minivan,5.0,10.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Extended Cab Pickup,10.0,6.0
+Regular Cab Pickup,Extended Cab Pickup,10.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Regular Cab Pickup,Extended Cab Pickup,10.0,6.0
+Regular Cab Pickup,Extended Cab Pickup,10.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Passenger Minivan,6.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Extended Cab Pickup,Passenger Minivan,6.0,10.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+Sedan,4dr Hatchback,0.0,4.0
+Sedan,4dr Hatchback,0.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Sedan,4dr Hatchback,0.0,4.0
+4dr Hatchback,Sedan,4.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+4dr Hatchback,Sedan,4.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr Hatchback,Sedan,4.0,0.0
+4dr Hatchback,Sedan,4.0,0.0
+4dr Hatchback,Sedan,4.0,0.0
+4dr Hatchback,2dr Hatchback,4.0,8.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Wagon,0.0,7.0
+Wagon,Wagon,7.0,7.0
+Coupe,Coupe,2.0,2.0
+Convertible,Coupe,3.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Convertible,2.0,3.0
+Coupe,Convertible,2.0,3.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Convertible,Coupe,3.0,2.0
+Coupe,Coupe,2.0,2.0
+2dr Hatchback,Coupe,8.0,2.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,Coupe,8.0,2.0
+Extended Cab Pickup,Passenger Minivan,6.0,10.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Regular Cab Pickup,Extended Cab Pickup,10.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Regular Cab Pickup,Extended Cab Pickup,10.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Sedan,Coupe,0.0,2.0
+Sedan,Sedan,0.0,0.0
+Coupe,Sedan,2.0,0.0
+Convertible,4dr SUV,3.0,1.0
+Convertible,4dr SUV,3.0,1.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Cargo Minivan,Cargo Minivan,14.0,14.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Van,Passenger Van,12.0,12.0
+Passenger Van,Passenger Van,12.0,12.0
+Passenger Van,Passenger Van,12.0,12.0
+Passenger Van,Passenger Van,12.0,12.0
+Passenger Van,Passenger Van,12.0,12.0
+Passenger Van,Passenger Van,12.0,12.0
+Passenger Van,Passenger Van,12.0,12.0
+Passenger Van,Passenger Van,12.0,12.0
+Passenger Van,Passenger Van,12.0,12.0
+Passenger Van,Passenger Van,12.0,12.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Cargo Minivan,Regular Cab Pickup,14.0,9.0
+Cargo Minivan,Regular Cab Pickup,14.0,9.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+2dr SUV,2dr SUV,11.0,11.0
+2dr SUV,2dr SUV,11.0,11.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+2dr SUV,2dr SUV,11.0,11.0
+Passenger Van,Passenger Van,12.0,12.0
+Extended Cab Pickup,Passenger Minivan,6.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+2dr SUV,2dr SUV,11.0,11.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Cargo Minivan,Cargo Minivan,14.0,14.0
+Passenger Van,Passenger Van,12.0,12.0
+Passenger Van,Passenger Van,12.0,12.0
+Passenger Van,Passenger Van,12.0,12.0
+Cargo Van,Passenger Van,13.0,12.0
+Cargo Van,Passenger Van,13.0,12.0
+Cargo Van,Passenger Van,13.0,12.0
+Crew Cab Pickup,Passenger Minivan,5.0,10.0
+Crew Cab Pickup,Passenger Minivan,5.0,10.0
+Crew Cab Pickup,Passenger Minivan,5.0,10.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Passenger Minivan,5.0,10.0
+Crew Cab Pickup,Passenger Minivan,5.0,10.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Crew Cab Pickup,Passenger Minivan,5.0,10.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Crew Cab Pickup,Passenger Minivan,5.0,10.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Crew Cab Pickup,4dr SUV,5.0,1.0
+Crew Cab Pickup,4dr SUV,5.0,1.0
+Crew Cab Pickup,4dr SUV,5.0,1.0
+Crew Cab Pickup,4dr SUV,5.0,1.0
+Crew Cab Pickup,4dr SUV,5.0,1.0
+Crew Cab Pickup,4dr SUV,5.0,1.0
+Crew Cab Pickup,4dr SUV,5.0,1.0
+Extended Cab Pickup,Sedan,6.0,0.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Regular Cab Pickup,Extended Cab Pickup,10.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Regular Cab Pickup,2dr SUV,10.0,11.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Cargo Van,Cargo Van,13.0,13.0
+Cargo Van,Cargo Van,13.0,13.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Coupe,Coupe,2.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,Sedan,2.0,0.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Sedan,Sedan,0.0,0.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Sedan,Sedan,0.0,0.0
+Coupe,Sedan,2.0,0.0
+Coupe,Coupe,2.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,Coupe,2.0,2.0
+Coupe,Regular Cab Pickup,2.0,9.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+Coupe,Coupe,2.0,2.0
+Sedan,Coupe,0.0,2.0
+Coupe,Coupe,2.0,2.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,Sedan,4.0,0.0
+Coupe,Coupe,2.0,2.0
+Coupe,4dr Hatchback,2.0,4.0
+Coupe,Coupe,2.0,2.0
+Coupe,Sedan,2.0,0.0
+Coupe,Coupe,2.0,2.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,Sedan,4.0,0.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+4dr SUV,Cargo Van,1.0,13.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,2dr SUV,1.0,11.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Convertible,Convertible,3.0,3.0
+Sedan,4dr Hatchback,0.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Sedan,Sedan,0.0,0.0
+Sedan,Coupe,0.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Coupe,0.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,Coupe,2.0,2.0
+Coupe,4dr Hatchback,2.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,Convertible,2.0,3.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Coupe,4dr Hatchback,2.0,4.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,Sedan,8.0,0.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+2dr Hatchback,4dr Hatchback,8.0,4.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,4dr Hatchback,8.0,4.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,Sedan,2.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,Coupe,2.0,2.0
+Sedan,Sedan,0.0,0.0
+Convertible,Convertible,3.0,3.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,4dr SUV,0.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,Convertible,2.0,3.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Coupe,0.0,2.0
+Sedan,4dr SUV,0.0,1.0
+Sedan,4dr SUV,0.0,1.0
+Convertible,Convertible,3.0,3.0
+Coupe,Sedan,2.0,0.0
+Coupe,Sedan,2.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Sedan,0.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,4dr Hatchback,2.0,4.0
+Coupe,4dr Hatchback,2.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,4dr SUV,7.0,1.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Sedan,7.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Wagon,Sedan,7.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Convertible,Coupe,3.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Convertible,2.0,3.0
+Convertible,Coupe,3.0,2.0
+Coupe,Coupe,2.0,2.0
+Convertible,Coupe,3.0,2.0
+Coupe,Coupe,2.0,2.0
+Convertible,Coupe,3.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Convertible,2.0,3.0
+2dr SUV,Coupe,11.0,2.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,2dr SUV,1.0,11.0
+4dr SUV,2dr SUV,1.0,11.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+2dr SUV,4dr SUV,11.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+2dr SUV,4dr SUV,11.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+2dr SUV,4dr SUV,11.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,4dr SUV,0.0,1.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,4dr SUV,0.0,1.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Coupe,0.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Coupe,Sedan,2.0,0.0
+Coupe,Sedan,2.0,0.0
+Coupe,Coupe,2.0,2.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Coupe,Coupe,2.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,4dr SUV,0.0,1.0
+Sedan,4dr SUV,0.0,1.0
+Sedan,Sedan,0.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Sedan,0.0,0.0
+Wagon,Sedan,7.0,0.0
+Wagon,Sedan,7.0,0.0
+Wagon,Sedan,7.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,4dr SUV,0.0,1.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Sedan,0.0,0.0
+Sedan,Convertible,0.0,3.0
+Convertible,Convertible,3.0,3.0
+Coupe,Convertible,2.0,3.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Convertible,2.0,3.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Sedan,Sedan,0.0,0.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Convertible,0.0,3.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Convertible,0.0,3.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Sedan,Sedan,0.0,0.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Sedan,Sedan,0.0,0.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,4dr Hatchback,9.0,4.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Regular Cab Pickup,Extended Cab Pickup,10.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Passenger Minivan,6.0,10.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+4dr Hatchback,Sedan,4.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Regular Cab Pickup,0.0,9.0
+Sedan,Sedan,0.0,0.0
+2dr SUV,2dr SUV,11.0,11.0
+2dr SUV,2dr SUV,11.0,11.0
+2dr SUV,2dr SUV,11.0,11.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,2dr Hatchback,1.0,8.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Regular Cab Pickup,Extended Cab Pickup,10.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Coupe,Coupe,2.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Wagon,Sedan,7.0,0.0
+Wagon,Wagon,7.0,7.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,Sedan,2.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Convertible,Convertible,3.0,3.0
+Coupe,Sedan,2.0,0.0
+Coupe,Coupe,2.0,2.0
+Sedan,4dr SUV,0.0,1.0
+Sedan,Sedan,0.0,0.0
+Coupe,Coupe,2.0,2.0
+Coupe,Convertible,2.0,3.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Convertible,Sedan,3.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,Sedan,2.0,0.0
+Coupe,Sedan,2.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Convertible,Coupe,3.0,2.0
+Convertible,Convertible,3.0,3.0
+Coupe,Convertible,2.0,3.0
+Convertible,Coupe,3.0,2.0
+Convertible,Sedan,3.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Wagon,Wagon,7.0,7.0
+Wagon,4dr SUV,7.0,1.0
+Coupe,Coupe,2.0,2.0
+Sedan,Sedan,0.0,0.0
+Convertible,Coupe,3.0,2.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,Sedan,1.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,Wagon,1.0,7.0
+4dr SUV,Wagon,1.0,7.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,Sedan,1.0,0.0
+Sedan,Sedan,0.0,0.0
+Wagon,Sedan,7.0,0.0
+Wagon,Sedan,7.0,0.0
+Coupe,Sedan,2.0,0.0
+Sedan,Coupe,0.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Coupe,0.0,2.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Coupe,3.0,2.0
+Convertible,Coupe,3.0,2.0
+Convertible,Coupe,3.0,2.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+2dr Hatchback,Convertible,8.0,3.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr Hatchback,2dr Hatchback,4.0,8.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,4dr SUV,0.0,1.0
+Sedan,Sedan,0.0,0.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,Wagon,1.0,7.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,Wagon,1.0,7.0
+4dr SUV,4dr Hatchback,1.0,4.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Coupe,Coupe,2.0,2.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Coupe,Coupe,2.0,2.0
+Convertible,Convertible,3.0,3.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Convertible,Convertible,3.0,3.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Coupe,Coupe,2.0,2.0
+Convertible,Convertible,3.0,3.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr SUV,Extended Cab Pickup,1.0,6.0
+4dr SUV,Extended Cab Pickup,1.0,6.0
+4dr SUV,Extended Cab Pickup,1.0,6.0
+4dr SUV,Extended Cab Pickup,1.0,6.0
+4dr SUV,Extended Cab Pickup,1.0,6.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Wagon,Wagon,7.0,7.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,Convertible,4.0,3.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Convertible SUV,Convertible SUV,15.0,15.0
+Cargo Minivan,Cargo Minivan,14.0,14.0
+Cargo Minivan,Cargo Minivan,14.0,14.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Regular Cab Pickup,Extended Cab Pickup,10.0,6.0
+Sedan,Sedan,0.0,0.0
+Sedan,4dr Hatchback,0.0,4.0
+Sedan,4dr Hatchback,0.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Coupe,Sedan,2.0,0.0
+Coupe,Sedan,2.0,0.0
+Sedan,Coupe,0.0,2.0
+Coupe,Sedan,2.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,Sedan,2.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,Sedan,2.0,0.0
+Sedan,Sedan,0.0,0.0
+Wagon,Sedan,7.0,0.0
+Sedan,Coupe,0.0,2.0
+Wagon,Sedan,7.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,Sedan,2.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,Sedan,2.0,0.0
+Coupe,Sedan,2.0,0.0
+Sedan,Coupe,0.0,2.0
+Sedan,Wagon,0.0,7.0
+Coupe,Sedan,2.0,0.0
+Sedan,Coupe,0.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Coupe,0.0,2.0
+Sedan,Sedan,0.0,0.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Coupe,Coupe,2.0,2.0
+Sedan,2dr Hatchback,0.0,8.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+Wagon,2dr Hatchback,7.0,8.0
+Coupe,Coupe,2.0,2.0
+Wagon,2dr Hatchback,7.0,8.0
+Wagon,2dr Hatchback,7.0,8.0
+Wagon,2dr Hatchback,7.0,8.0
+2dr Hatchback,Sedan,8.0,0.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+Coupe,Sedan,2.0,0.0
+Sedan,Sedan,0.0,0.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+2dr Hatchback,Convertible,8.0,3.0
+2dr Hatchback,Convertible,8.0,3.0
+Coupe,Coupe,2.0,2.0
+Coupe,2dr Hatchback,2.0,8.0
+Coupe,Coupe,2.0,2.0
+Coupe,Sedan,2.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Convertible,Convertible,3.0,3.0
+Sedan,Coupe,0.0,2.0
+Coupe,Convertible,2.0,3.0
+Sedan,Sedan,0.0,0.0
+Coupe,Sedan,2.0,0.0
+Coupe,Sedan,2.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Coupe,0.0,2.0
+Sedan,4dr Hatchback,0.0,4.0
+Coupe,Sedan,2.0,0.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Convertible,Convertible,3.0,3.0
+Convertible,Sedan,3.0,0.0
+Coupe,Sedan,2.0,0.0
+Coupe,Sedan,2.0,0.0
+Coupe,Sedan,2.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Coupe,Convertible,2.0,3.0
+Convertible,Convertible,3.0,3.0
+Coupe,Convertible,2.0,3.0
+Convertible,Coupe,3.0,2.0
+Coupe,Coupe,2.0,2.0
+Convertible,Coupe,3.0,2.0
+Convertible,Coupe,3.0,2.0
+Convertible,Coupe,3.0,2.0
+Coupe,Coupe,2.0,2.0
+Convertible,Coupe,3.0,2.0
+Convertible,Coupe,3.0,2.0
+Convertible,Convertible,3.0,3.0
+Coupe,Coupe,2.0,2.0
+Convertible,Convertible,3.0,3.0
+Coupe,Coupe,2.0,2.0
+Convertible,Coupe,3.0,2.0
+Convertible,Coupe,3.0,2.0
+Convertible,Coupe,3.0,2.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Coupe,Coupe,2.0,2.0
+Coupe,Convertible,2.0,3.0
+Coupe,Convertible,2.0,3.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,Sedan,1.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Convertible,Sedan,3.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Convertible,Sedan,3.0,0.0
+Coupe,Coupe,2.0,2.0
+Wagon,Sedan,7.0,0.0
+Sedan,Sedan,0.0,0.0
+Convertible,Sedan,3.0,0.0
+Wagon,Sedan,7.0,0.0
+Convertible,4dr SUV,3.0,1.0
+Convertible,Convertible,3.0,3.0
+Wagon,Convertible,7.0,3.0
+Sedan,Sedan,0.0,0.0
+Convertible,Sedan,3.0,0.0
+Wagon,Wagon,7.0,7.0
+Sedan,Sedan,0.0,0.0
+Convertible,Convertible,3.0,3.0
+Wagon,Convertible,7.0,3.0
+Sedan,Sedan,0.0,0.0
+Wagon,Convertible,7.0,3.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Sedan,0.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Convertible,4dr Hatchback,3.0,4.0
+4dr Hatchback,Convertible,4.0,3.0
+Convertible,4dr Hatchback,3.0,4.0
+Convertible,2dr Hatchback,3.0,8.0
+4dr Hatchback,2dr Hatchback,4.0,8.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,4dr Hatchback,7.0,4.0
+Wagon,4dr Hatchback,7.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,Coupe,4.0,2.0
+Convertible,Coupe,3.0,2.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Wagon,5.0,7.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,4dr Hatchback,0.0,4.0
+Sedan,4dr Hatchback,0.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Sedan,4dr Hatchback,0.0,4.0
+Sedan,4dr Hatchback,0.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Sedan,Sedan,0.0,0.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,Sedan,4.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Wagon,0.0,7.0
+4dr SUV,4dr SUV,1.0,1.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Sedan,0.0,0.0
+Wagon,Sedan,7.0,0.0
+Sedan,Sedan,0.0,0.0
+Wagon,Sedan,7.0,0.0
+Sedan,Sedan,0.0,0.0
+Wagon,Sedan,7.0,0.0
+Sedan,Sedan,0.0,0.0
+Wagon,Sedan,7.0,0.0
+Sedan,4dr Hatchback,0.0,4.0
+Sedan,4dr Hatchback,0.0,4.0
+Sedan,Sedan,0.0,0.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Wagon,Wagon,7.0,7.0
+Sedan,Sedan,0.0,0.0
+Wagon,Sedan,7.0,0.0
+Wagon,Sedan,7.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,4dr Hatchback,0.0,4.0
+Sedan,4dr Hatchback,0.0,4.0
+Sedan,Sedan,0.0,0.0
+Wagon,Wagon,7.0,7.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr Hatchback,Sedan,4.0,0.0
+4dr Hatchback,Sedan,4.0,0.0
+4dr Hatchback,Sedan,4.0,0.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Sedan,4dr Hatchback,0.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Sedan,Sedan,0.0,0.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr SUV,4.0,1.0
+4dr Hatchback,4dr SUV,4.0,1.0
+Convertible SUV,2dr SUV,15.0,11.0
+Convertible SUV,4dr SUV,15.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+Sedan,Sedan,0.0,0.0
+Convertible SUV,4dr SUV,15.0,1.0
+2dr SUV,2dr SUV,11.0,11.0
+2dr SUV,2dr SUV,11.0,11.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Convertible,Convertible,3.0,3.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Convertible,Convertible,3.0,3.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Sedan,Sedan,0.0,0.0
+Sedan,4dr Hatchback,0.0,4.0
+Sedan,4dr Hatchback,0.0,4.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Coupe,0.0,2.0
+Coupe,Sedan,2.0,0.0
+Sedan,Sedan,0.0,0.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Coupe,Coupe,2.0,2.0
+Coupe,Coupe,2.0,2.0
+Convertible,Convertible,3.0,3.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Regular Cab Pickup,Extended Cab Pickup,10.0,6.0
+Extended Cab Pickup,Passenger Minivan,6.0,10.0
+Regular Cab Pickup,Passenger Minivan,10.0,10.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,Extended Cab Pickup,1.0,6.0
+4dr SUV,Extended Cab Pickup,1.0,6.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,Extended Cab Pickup,1.0,6.0
+4dr SUV,Crew Cab Pickup,1.0,5.0
+4dr SUV,4dr SUV,1.0,1.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Coupe,Coupe,2.0,2.0
+Sedan,Coupe,0.0,2.0
+Coupe,Sedan,2.0,0.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Regular Cab Pickup,Crew Cab Pickup,10.0,5.0
+Crew Cab Pickup,Crew Cab Pickup,5.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Extended Cab Pickup,Crew Cab Pickup,6.0,5.0
+Crew Cab Pickup,Extended Cab Pickup,5.0,6.0
+Extended Cab Pickup,Extended Cab Pickup,6.0,6.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Sedan,4dr Hatchback,0.0,4.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,4dr Hatchback,8.0,4.0
+2dr Hatchback,Convertible,8.0,3.0
+2dr Hatchback,Convertible,8.0,3.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,Wagon,8.0,7.0
+2dr Hatchback,Convertible,8.0,3.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,2dr Hatchback,3.0,8.0
+Convertible,2dr Hatchback,3.0,8.0
+Convertible,2dr Hatchback,3.0,8.0
+Convertible,2dr Hatchback,3.0,8.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,2dr Hatchback,3.0,8.0
+Convertible,2dr Hatchback,3.0,8.0
+Convertible,2dr Hatchback,3.0,8.0
+Convertible,2dr Hatchback,3.0,8.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Convertible,Convertible,3.0,3.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Coupe,Sedan,2.0,0.0
+Coupe,Sedan,2.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Wagon,0.0,7.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+2dr Hatchback,4dr Hatchback,8.0,4.0
+2dr Hatchback,4dr Hatchback,8.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+2dr Hatchback,4dr Hatchback,8.0,4.0
+2dr Hatchback,4dr Hatchback,8.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,Sedan,4.0,0.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,4dr Hatchback,8.0,4.0
+4dr Hatchback,Wagon,4.0,7.0
+4dr Hatchback,Wagon,4.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+2dr Hatchback,4dr Hatchback,8.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+2dr Hatchback,4dr Hatchback,8.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+4dr Hatchback,4dr Hatchback,4.0,4.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+Convertible,Convertible,3.0,3.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+Convertible,Convertible,3.0,3.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+Sedan,Sedan,0.0,0.0
+2dr Hatchback,Crew Cab Pickup,8.0,5.0
+2dr Hatchback,4dr Hatchback,8.0,4.0
+4dr Hatchback,2dr Hatchback,4.0,8.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+2dr Hatchback,4dr Hatchback,8.0,4.0
+2dr Hatchback,4dr Hatchback,8.0,4.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Passenger Minivan,Regular Cab Pickup,9.0,9.0
+Sedan,Sedan,0.0,0.0
+Wagon,Sedan,7.0,0.0
+Wagon,Sedan,7.0,0.0
+Coupe,Sedan,2.0,0.0
+Coupe,Coupe,2.0,2.0
+Wagon,Sedan,7.0,0.0
+Sedan,Wagon,0.0,7.0
+Wagon,Sedan,7.0,0.0
+Sedan,Wagon,0.0,7.0
+Wagon,Sedan,7.0,0.0
+Sedan,Wagon,0.0,7.0
+Sedan,Wagon,0.0,7.0
+2dr Hatchback,2dr Hatchback,8.0,8.0
+Sedan,Wagon,0.0,7.0
+Sedan,Sedan,0.0,0.0
+Sedan,Wagon,0.0,7.0
+Sedan,Wagon,0.0,7.0
+Sedan,Wagon,0.0,7.0
+Sedan,Wagon,0.0,7.0
+Sedan,Wagon,0.0,7.0
+Sedan,Wagon,0.0,7.0
+Sedan,Sedan,0.0,0.0
+Sedan,Wagon,0.0,7.0
+Sedan,Sedan,0.0,0.0
+Wagon,Wagon,7.0,7.0
+Wagon,Wagon,7.0,7.0
+Wagon,Sedan,7.0,0.0
+Wagon,Sedan,7.0,0.0
+Wagon,Wagon,7.0,7.0
+Wagon,Sedan,7.0,0.0
+Wagon,Sedan,7.0,0.0
+Wagon,Sedan,7.0,0.0
+Wagon,Sedan,7.0,0.0
+Wagon,Sedan,7.0,0.0
+Wagon,Sedan,7.0,0.0
+Wagon,Sedan,7.0,0.0
+Wagon,Wagon,7.0,7.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+Wagon,4dr SUV,7.0,1.0
+Wagon,4dr SUV,7.0,1.0
+Wagon,4dr SUV,7.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0
+4dr SUV,4dr SUV,1.0,1.0

@@ -1,0 +1,9 @@
+metric,value
+accuracy,0.748471615720524
+weighted_f1,0.7461510938764213
+total_records,11914
+clean_records,11813
+training_records,9523
+validation_records,1837
+testing_records,2290
+removed_records,101

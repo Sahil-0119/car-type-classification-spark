@@ -1,0 +1,18 @@
+Actual/Predicted,Sedan,4dr SUV,Coupe,Convertible,4dr Hatchback,Crew Cab Pickup,Extended Cab Pickup,Wagon,2dr Hatchback,Regular Cab Pickup,Passenger Minivan,2dr SUV,Passenger Van,Cargo Van,Cargo Minivan,Convertible SUV,Unknown
+Sedan,455,11,31,6,24,0,0,19,9,1,0,0,0,0,0,0,0
+4dr SUV,8,481,1,0,1,1,11,4,1,0,2,3,0,1,0,2,0
+Coupe,49,0,144,35,5,0,0,0,1,1,0,0,0,0,0,0,0
+Convertible,9,4,53,73,3,0,0,0,14,0,0,0,0,0,0,0,0
+4dr Hatchback,18,4,1,2,94,0,0,2,4,0,0,0,0,0,0,0,0
+Crew Cab Pickup,0,11,0,0,0,104,22,1,0,0,19,0,0,0,0,0,0
+Extended Cab Pickup,1,0,0,0,0,32,55,0,0,0,18,0,0,0,0,0,0
+Wagon,34,7,0,4,3,0,0,70,6,0,0,0,0,0,0,0,0
+2dr Hatchback,5,0,2,8,15,1,0,1,51,0,0,0,0,0,0,0,0
+Regular Cab Pickup,1,1,0,0,1,0,0,0,0,73,0,0,0,0,2,0,0
+Passenger Minivan,0,0,0,0,0,2,18,0,0,0,49,1,0,0,0,0,0
+2dr SUV,0,3,1,0,0,0,0,0,0,0,0,22,0,0,0,0,0
+Passenger Van,0,0,0,0,0,0,0,0,0,0,0,0,21,0,0,0,0
+Cargo Van,0,0,0,0,0,0,0,0,0,0,0,0,10,15,0,0,0
+Cargo Minivan,0,0,0,0,0,0,0,0,0,2,0,0,0,0,6,0,0
+Convertible SUV,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0
+Unknown,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
